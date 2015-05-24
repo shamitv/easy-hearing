@@ -1,0 +1,1 @@
+This application enables your smasrtphone to amplify sound.
